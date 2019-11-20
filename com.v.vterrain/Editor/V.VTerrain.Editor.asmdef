@@ -1,0 +1,16 @@
+{
+   "name" : "V.VTerrain.Editor",
+   "references":
+   [
+       "V.VTerrain.Runtime"
+   ],
+   "optionalUnityReferences": [],
+   "includePlatforms": ["Editor"],
+   "excludePlatforms": [],
+   "allowUnsafeCode": true,
+   "overrideReferences": false,
+   "precompiledReferences": [],
+   "autoReferenced": true,
+   "defineConstraints": [],
+   "versionDefines": []
+}

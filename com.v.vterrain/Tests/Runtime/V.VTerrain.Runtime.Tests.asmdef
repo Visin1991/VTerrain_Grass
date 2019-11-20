@@ -1,0 +1,16 @@
+{
+   "name" : "V.VTerrain.Runtime.Tests",
+   "references":
+   [
+       "V.VTerrain.Runtime"
+   ],
+   "optionalUnityReferences": [],
+   "includePlatforms": [],
+   "excludePlatforms": [],
+   "allowUnsafeCode": true,
+   "overrideReferences": true,
+   "precompiledReferences": [],
+   "autoReferenced": false,
+   "defineConstraints": [],
+   "versionDefines": []
+}
